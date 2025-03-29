@@ -1,1 +1,0 @@
-# ramen-rating-app
